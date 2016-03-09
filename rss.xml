@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jordanguanga]]></title>
         <description><![CDATA[jordanguanga]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jordanguanga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:44:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 02:44:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jordanguanga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing the new website.]]></title>
+            <description><![CDATA[<article><h1>Testing the new website.</h1><p>This is a new year with new possibilities. After all the years I spent playing with different websites, this website was promising in that it did not require any designing.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c741af51d28cc6ea350a918073f4224519ecf521.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jordanguanga/3b09d5ab-6ed0-484e-ba33-66da55fea260/index.html</link>
+            <guid isPermaLink="false">3b09d5ab-6ed0-484e-ba33-66da55fea260</guid>
+            <pubDate>Wed, 09 Mar 2016 02:44:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/defb0e18-0cfd-4565-a4d2-294532182d22.jpg">]]></description>
-            <link>undefinedceb1f324-10df-4d33-80e9-a780ddec755f/index.html</link>
+            <link>https://thegrid.ai/jordanguanga/ceb1f324-10df-4d33-80e9-a780ddec755f/index.html</link>
             <guid isPermaLink="false">ceb1f324-10df-4d33-80e9-a780ddec755f</guid>
             <pubDate>Wed, 09 Mar 2016 02:44:25 GMT</pubDate>
         </item>
