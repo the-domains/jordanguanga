@@ -1,7 +1,7 @@
 name: jordanguanga
 favicon: null
-layout_spectrum: 0.46344123641029
-typography_spectrum: 0.6883368312846869
+layout_spectrum: 1
+typography_spectrum: 0.11625
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.873202602379024
-  lightness: 0.16570783988572657
+  lightness: 0.5
   saturation: 0.9916873627807945
   rhythmicContrast: 0.08720124652609229
 purpose: []
